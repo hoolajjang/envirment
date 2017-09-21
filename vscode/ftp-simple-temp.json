@@ -1,0 +1,14 @@
+[
+	{
+		"name": "dev",
+		"host": "de-php-api.fttinc.kr",
+		"port": 22,
+		"type": "sftp",
+		"username": "tony",
+		"password": "Ever!@1313",
+		"path": "/home/tony/gitroot",
+		"autosave": true,
+		"backup": "d:/work/ftp-simple",
+		"confirm": false
+	}
+]
